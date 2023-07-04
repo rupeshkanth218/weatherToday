@@ -4,7 +4,7 @@ charset-normalizer==3.1.0
 Django==4.1.7
 django-environ==0.10.0
 idna==3.4
-psycopg2==2.9.6
+psycopg2-binary
 requests==2.31.0
 sqlparse==0.4.4
 tzdata==2023.3
